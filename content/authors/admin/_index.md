@@ -1,48 +1,50 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: I am interested in all things related to Microbial Bioinformatics, in particular, I am interested in developing robust approaches to support the transition to genomics in Public Health Labs.
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Ecology and Evolutionary Biology
+    institution: Columbia University
+    year: 2007
+  - course: MPhil in Ecology and Evolutionary Biology
+    institution: Columbia University
+    year: 2004
+  - course: MA in Conservation Biology
+    institution: Columbia University
+    year: 2003
+  - course: BSc in Biology
+    institution: Universidade Estadual de Campinas
+    year: 2000
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Reproduciable Bioinformatics
+- Phylogenomics
+- Bayesian Data Analysis
+- Machine Learning
+name: Anders Gonçalves da Silva
 organizations:
-- name: Stanford University
+- name: Microbiological Diagnostic Unit | Public Health Laboratory
   url: ""
-role: Professor of Artificial Intelligence
+role: Senior Bioinformatician
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/drandersgs
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=FeuVBLgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andersgs
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Something about me. 
